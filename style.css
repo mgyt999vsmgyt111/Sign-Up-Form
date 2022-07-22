@@ -15,7 +15,7 @@ body{
   text-align: center;
 }
 .sign-up-form h1{
-  color: #1c8abd;
+  color: white;
   margin-bottom: 30px;
 }
 .input-box{
@@ -59,4 +59,7 @@ img{
   height: 30px;
   width: 30px;
   margin-top: -50px;
+}
+html{
+background-color: black;
 }
